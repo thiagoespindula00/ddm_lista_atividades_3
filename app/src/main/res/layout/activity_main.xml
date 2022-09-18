@@ -27,9 +27,7 @@
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:onClick="onClick"
-            android:textAlignment="center"
-            tools:ignore="TouchTargetSizeCheck"
-            tools:text="@string/imagem_anterior" />
+            android:text="@string/imagem_anterior" />
 
         <Button
             android:id="@+id/btnHome"
@@ -38,8 +36,7 @@
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:onClick="onClick"
-            tools:ignore="TouchTargetSizeCheck"
-            tools:text="@string/imagem_inicial" />
+            android:text="@string/imagem_inicial" />
 
         <Button
             android:id="@+id/btnProximo"
@@ -48,8 +45,6 @@
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:onClick="onClick"
-            android:textAlignment="center"
-            tools:ignore="TouchTargetSizeCheck"
-            tools:text="@string/imagem_posterior" />
+            android:text="@string/imagem_posterior" />
     </LinearLayout>
 </LinearLayout>
