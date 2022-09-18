@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSlideShow</string>
+    <string name="imagem_anterior">Previous</string>
+    <string name="imagem_inicial">Home</string>
+    <string name="imagem_posterior">Next</string>
+</resources>
